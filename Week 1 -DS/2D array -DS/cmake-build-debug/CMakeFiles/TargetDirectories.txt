@@ -1,0 +1,3 @@
+C:/Users/karee/Desktop/coding/C/HackerRank/Week 1 -DS/2D array -DS/cmake-build-debug/CMakeFiles/2D_array__DS.dir
+C:/Users/karee/Desktop/coding/C/HackerRank/Week 1 -DS/2D array -DS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karee/Desktop/coding/C/HackerRank/Week 1 -DS/2D array -DS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
