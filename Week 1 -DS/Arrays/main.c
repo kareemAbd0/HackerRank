@@ -50,7 +50,29 @@ int parse_int(char*);
  * }
  *
  */
-int* reverseArray(int a_count, int* a, int* result_count) {
+int* reverseArray(int a_count, int* a, int* result_count)
+{
+    int arr2[a_count] ;
+    int j = 0;
+    for (int i = a_count; i > 0 ; i--)
+    {
+
+        arr2[i-1] = *(a+j);
+        j++;
+
+    }
+
+    *result_count = a_count;
+    for (int i = 0; i < a_count ; ++i)
+    {
+        *(a+i) = arr2[i];
+
+    }
+    for (int i = 0; i < a_count; ++i) {
+       // printf("%d",*(a+i));
+    }
+    return a;
+
 
 }
 
@@ -75,6 +97,7 @@ int main()
 
     for (int i = 0; i < res_count; i++) {
         fprintf(fptr, "%d", *(res + i));
+        printf("%d ",*(res + i));
 
         if (i != res_count - 1) {
             fprintf(fptr, " ");

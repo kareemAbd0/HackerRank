@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/karee/Desktop/coding/C/HackerRank/Week 1 -DS/Arrays/main.c
+assert.h
+-
+ctype.h
+-
+limits.h
+-
+math.h
+-
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
