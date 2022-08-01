@@ -1,0 +1,3 @@
+C:/Users/karee/Desktop/coding/C/HackerRank/week 1 -conditional/Conditional Statements in C/cmake-build-debug/CMakeFiles/Conditional_Statements_in_C.dir
+C:/Users/karee/Desktop/coding/C/HackerRank/week 1 -conditional/Conditional Statements in C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karee/Desktop/coding/C/HackerRank/week 1 -conditional/Conditional Statements in C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

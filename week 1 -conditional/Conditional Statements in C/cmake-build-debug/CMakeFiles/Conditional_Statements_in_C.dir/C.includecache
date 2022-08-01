@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/karee/Desktop/coding/C/HackerRank/week 1 -conditional/Conditional Statements in C/main.c
+assert.h
+-
+limits.h
+-
+math.h
+-
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

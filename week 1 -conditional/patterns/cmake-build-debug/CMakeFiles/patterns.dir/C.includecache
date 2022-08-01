@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/karee/Desktop/coding/C/HackerRank/week 1 -conditional/patterns/main.c
+stdio.h
+-
+string.h
+-
+math.h
+-
+stdlib.h
+-
+
